@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+TbOJilPg5eOVFSLownISsWDM4E0utU60xhYTMmP9otUgPCbz8FpU7L92G/BRPqQPaBuUWHl8gyRS+zyUuP3og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anicolas\\Downloads\\Certamen1_Alfonso_Nunez-master\\Certamen1_Alfonso_Nunez.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anicolas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\anicolas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\anicolas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\anicolas\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

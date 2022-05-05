@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Certamen1_Alfonso_Nunez/1.0.0": {
+        "runtime": {
+          "Certamen1_Alfonso_Nunez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Certamen1_Alfonso_Nunez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,32 @@
+C:\Users\alfon\Documents\T. Leng. Programacion 2022-1\Certamen1_Alfonso_Nunez\bin\Debug\net5.0\Certamen1_Alfonso_Nunez.exe
+C:\Users\alfon\Documents\T. Leng. Programacion 2022-1\Certamen1_Alfonso_Nunez\bin\Debug\net5.0\Certamen1_Alfonso_Nunez.deps.json
+C:\Users\alfon\Documents\T. Leng. Programacion 2022-1\Certamen1_Alfonso_Nunez\bin\Debug\net5.0\Certamen1_Alfonso_Nunez.runtimeconfig.json
+C:\Users\alfon\Documents\T. Leng. Programacion 2022-1\Certamen1_Alfonso_Nunez\bin\Debug\net5.0\Certamen1_Alfonso_Nunez.runtimeconfig.dev.json
+C:\Users\alfon\Documents\T. Leng. Programacion 2022-1\Certamen1_Alfonso_Nunez\bin\Debug\net5.0\Certamen1_Alfonso_Nunez.dll
+C:\Users\alfon\Documents\T. Leng. Programacion 2022-1\Certamen1_Alfonso_Nunez\bin\Debug\net5.0\ref\Certamen1_Alfonso_Nunez.dll
+C:\Users\alfon\Documents\T. Leng. Programacion 2022-1\Certamen1_Alfonso_Nunez\bin\Debug\net5.0\Certamen1_Alfonso_Nunez.pdb
+C:\Users\alfon\Documents\T. Leng. Programacion 2022-1\Certamen1_Alfonso_Nunez\obj\Debug\net5.0\Certamen1_Alfonso_Nunez.csproj.AssemblyReference.cache
+C:\Users\alfon\Documents\T. Leng. Programacion 2022-1\Certamen1_Alfonso_Nunez\obj\Debug\net5.0\Certamen1_Alfonso_Nunez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfon\Documents\T. Leng. Programacion 2022-1\Certamen1_Alfonso_Nunez\obj\Debug\net5.0\Certamen1_Alfonso_Nunez.AssemblyInfoInputs.cache
+C:\Users\alfon\Documents\T. Leng. Programacion 2022-1\Certamen1_Alfonso_Nunez\obj\Debug\net5.0\Certamen1_Alfonso_Nunez.AssemblyInfo.cs
+C:\Users\alfon\Documents\T. Leng. Programacion 2022-1\Certamen1_Alfonso_Nunez\obj\Debug\net5.0\Certamen1_Alfonso_Nunez.csproj.CoreCompileInputs.cache
+C:\Users\alfon\Documents\T. Leng. Programacion 2022-1\Certamen1_Alfonso_Nunez\obj\Debug\net5.0\Certamen1_Alfonso_Nunez.dll
+C:\Users\alfon\Documents\T. Leng. Programacion 2022-1\Certamen1_Alfonso_Nunez\obj\Debug\net5.0\ref\Certamen1_Alfonso_Nunez.dll
+C:\Users\alfon\Documents\T. Leng. Programacion 2022-1\Certamen1_Alfonso_Nunez\obj\Debug\net5.0\Certamen1_Alfonso_Nunez.pdb
+C:\Users\alfon\Documents\T. Leng. Programacion 2022-1\Certamen1_Alfonso_Nunez\obj\Debug\net5.0\Certamen1_Alfonso_Nunez.genruntimeconfig.cache
+C:\Users\anicolas\Downloads\Certamen1_Alfonso_Nunez-master\bin\Debug\net5.0\Certamen1_Alfonso_Nunez.exe
+C:\Users\anicolas\Downloads\Certamen1_Alfonso_Nunez-master\bin\Debug\net5.0\Certamen1_Alfonso_Nunez.deps.json
+C:\Users\anicolas\Downloads\Certamen1_Alfonso_Nunez-master\bin\Debug\net5.0\Certamen1_Alfonso_Nunez.runtimeconfig.json
+C:\Users\anicolas\Downloads\Certamen1_Alfonso_Nunez-master\bin\Debug\net5.0\Certamen1_Alfonso_Nunez.runtimeconfig.dev.json
+C:\Users\anicolas\Downloads\Certamen1_Alfonso_Nunez-master\bin\Debug\net5.0\Certamen1_Alfonso_Nunez.dll
+C:\Users\anicolas\Downloads\Certamen1_Alfonso_Nunez-master\bin\Debug\net5.0\Certamen1_Alfonso_Nunez.pdb
+C:\Users\anicolas\Downloads\Certamen1_Alfonso_Nunez-master\obj\Debug\net5.0\Certamen1_Alfonso_Nunez.csproj.AssemblyReference.cache
+C:\Users\anicolas\Downloads\Certamen1_Alfonso_Nunez-master\obj\Debug\net5.0\Certamen1_Alfonso_Nunez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anicolas\Downloads\Certamen1_Alfonso_Nunez-master\obj\Debug\net5.0\Certamen1_Alfonso_Nunez.AssemblyInfoInputs.cache
+C:\Users\anicolas\Downloads\Certamen1_Alfonso_Nunez-master\obj\Debug\net5.0\Certamen1_Alfonso_Nunez.AssemblyInfo.cs
+C:\Users\anicolas\Downloads\Certamen1_Alfonso_Nunez-master\obj\Debug\net5.0\Certamen1_Alfonso_Nunez.csproj.CoreCompileInputs.cache
+C:\Users\anicolas\Downloads\Certamen1_Alfonso_Nunez-master\obj\Debug\net5.0\Certamen1_Alfonso_Nunez.dll
+C:\Users\anicolas\Downloads\Certamen1_Alfonso_Nunez-master\obj\Debug\net5.0\refint\Certamen1_Alfonso_Nunez.dll
+C:\Users\anicolas\Downloads\Certamen1_Alfonso_Nunez-master\obj\Debug\net5.0\Certamen1_Alfonso_Nunez.pdb
+C:\Users\anicolas\Downloads\Certamen1_Alfonso_Nunez-master\obj\Debug\net5.0\Certamen1_Alfonso_Nunez.genruntimeconfig.cache
+C:\Users\anicolas\Downloads\Certamen1_Alfonso_Nunez-master\obj\Debug\net5.0\ref\Certamen1_Alfonso_Nunez.dll
